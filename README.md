@@ -5,7 +5,8 @@ The purpose of this project is to summarize the student's math and reading perfo
 
 ## Results
 Due to the removal of the the reading and math scores for the nith grade at THS, the passing rates of THS have changed. The screenshot below shows the before and after data. 
-![](https://github.com/lu-chang-axonic/Election_Analysis/blob/main/Results%20Printed%20to%20the%20Terminal.PNG)
+![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/THS%20Before.PNG)
+![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/THS%20After.PNG)
 
 The changed passing rates have the following impacts on the summary tables:
 
