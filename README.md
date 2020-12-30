@@ -10,7 +10,7 @@ Due to the removal of the the reading and math scores for the nith grade at THS,
 
 The changed passing rates have the following impacts on the summary tables:
 
-* District Summary:There are no significant impact on the district summary data.
+* District Summary:Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data. All passing percentages only decreased very slightly.
 * School Summary: The passing pecentages for math, reading, and math and reading for THS have increased.
 * THS's performance relative to the other schools: Among all schools, THS's ranking based on the overall passing rate have increased from #3 from the bottom to top #3.
 * Math and reading scores by grade: Clearly, since the 9th grade scores were removed for THS, there was no math or reading scores for this grade for THS to participate the comparison.
