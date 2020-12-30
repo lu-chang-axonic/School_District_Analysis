@@ -12,7 +12,7 @@ The changed passing rates have the following impacts on the summary tables:
 
 * District Summary:There are no significant impact on the district summary data.
 * School Summary: The passing pecentages for math, reading, and math and reading for THS have increased.
-* Thomas High School's performance relative to the other schools: Among all schools, THS's ranking based on the overall passing rate have increased from #3 from the bottom to top #3.
+* THS's performance relative to the other schools: Among all schools, THS's ranking based on the overall passing rate have increased from #3 from the bottom to top #3.
 * Math and reading scores by grade: Clearly, since the 9th grade scores were removed for THS, there was no math or reading scores for this grade for THS to participate the comparison.
 * Scores by school spending: Passing rates in the $630-644 categories have changed, reflecting that THS belongs to this category. 
 * Scores by school size: Passing rates in the medium sized school have changed, reflecting that that THS belongs to this category. 
