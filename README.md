@@ -4,7 +4,7 @@
 The purpose of this project is to summarize the student's math and reading performance by schools in the district. The performance was also measured by grade, by school spending, by school size, and by school type. Furthermore, the analysis has examined the impact of removing the 9th grade reading and math scores from the Thomas High School ("THS"), give suspected cheating activity. 
 
 ## Results
-Due to the removal of the the reading and math scores for the nith grade at Thomas High School, the passing rates of THS have changed. The screenshot below shows the before and after data. 
+Due to the removal of the the reading and math scores for the nith grade at THS, the passing rates of THS have changed. The screenshot below shows the before and after data. 
 ![](https://github.com/lu-chang-axonic/Election_Analysis/blob/main/Results%20Printed%20to%20the%20Terminal.PNG)
 
 The changed passing rates have the following impacts on the summary tables:
