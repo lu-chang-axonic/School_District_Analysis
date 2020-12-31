@@ -8,7 +8,7 @@ Due to the removal of the the reading and math scores for the nith grade at THS,
 
 The changed passing rates have the following impacts on the summary tables:
 
-* District Summary:Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data. All passing percentages only decreased very slightly.
+* District Summary: Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data. All passing percentages only decreased very slightly, as shown below (the "before" view is on the top and the "after" view is on the bottom).
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20After.PNG)
 
