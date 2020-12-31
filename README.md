@@ -8,18 +8,17 @@ Due to the removal of the the reading and math scores for the nith grade at THS,
 
 The changed passing rates have the following impacts on the summary tables:
 
-* District Summary: Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data. All passing percentages only decreased very slightly.
+* District Summary: Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data.All passing percentages only decreased very slightly.
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20After.PNG)
 
 * School Summary: The passing pecentages for math, reading, and math and reading for THS have increased.
-* THS's performance relative to the other schools: Among all schools, THS's ranking based on the overall passing rate have increased from #3 from the bottom to top #3.
-
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/THS%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/THS%20After.PNG)
 
-* Math and reading scores by grade: Clearly, since the 9th grade scores were removed for THS, there was no math or reading scores for this grade for THS to participate the comparison.
+* THS's performance relative to the other schools: Among all schools, THS's ranking based on the overall passing rate did not change, ranking the second highest.
 
+* Math and reading scores by grade: Clearly, since the 9th grade scores were removed for THS, there was no math or reading scores for this grade for THS to participate the comparison.
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Grade%20Math%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Grade%20Math%20After.PNG)
 
@@ -29,7 +28,6 @@ The changed passing rates have the following impacts on the summary tables:
 
 
 * Scores by school size: Passing rates in the medium sized school have changed, reflecting that that THS belongs to this category. 
-
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Size%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Size%20After.PNG)
 
