@@ -7,6 +7,7 @@ The purpose of this project is to summarize the student's math and reading perfo
 Due to the removal of the the reading and math scores for the ninth-grade at THS, the passing rates of THS have changed. The screenshots below show the "before" and "after" data (the "before" view is on the top and the "after" view is on the bottom) by categories. 
 
 * District Summary: Given that the number of students subtracted from the total student counts is relatively small (461), there are no significant impact on the district summary data.All passing percentages only decreased very slightly.
+
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20After.PNG)
 
@@ -23,15 +24,17 @@ Due to the removal of the the reading and math scores for the ninth-grade at THS
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Grade%20Math%20After.PNG)
 
 * Scores by school spending: Passing rates reading and overall in the $630-644 categories have both decreased by 0.1%, reflecting that THS belongs to this category.
+
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/Spending%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/Spending%20After.PNG)
 
-
 * Scores by school size: Reading passing rates in the medium sized school have decreased by 0.1%, reflecting that that THS belongs to this category. 
+
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Size%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Size%20After.PNG)
 
 * Scores by school type: Give the large number of students in each type of schools, passing rates by school type did not significantly change.
+
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Type%20Before.PNG)
 ![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/By%20Type%20After.PNG)
 
